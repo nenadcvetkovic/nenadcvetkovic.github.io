@@ -12,7 +12,6 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
@@ -26,8 +25,8 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
+          <nav role="navigation">
+            <a href="{{ site.baseurl }}/">Home</a>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
@@ -42,6 +41,7 @@
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
+          <p>Nenad Cvetkovic 2016 | All Rights Reserved. </p>
         </footer>
       </div>
     </div>
