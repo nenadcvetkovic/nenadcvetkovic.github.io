@@ -18,12 +18,12 @@ avatar: /images/avatar.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: nenad.cvetkovic@hotmail.com
   facebook:
   flickr:
   github: nenadcvetkovic
   instagram:
-  linkedin:
+  linkedin: cvetkovicnenad
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
@@ -39,7 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Your website URL (e.g. http://nenadcvetkovic.github.io or http://www.nenadcvetkovic.com)
 # Used for Sitemap.xml and your RSS feed
 url: http://nenadcvetkovic.github.io
 
@@ -57,7 +57,6 @@ markdown: redcarpet
 highlighter: pygments
 permalink: /:title/
 
-# The release of Jekyll Now that you're using
 version: v1.1.0
 
 # Set the Sass partials directory, as we're using @imports
